@@ -1,3 +1,8 @@
+/*
+ * 题目：304. 二维区域和检索 - 矩阵不可变
+ * 链接：https://leetcode-cn.com/problems/range-sum-query-2d-immutable/
+ * 知识点：二维前缀和
+ */
 class NumMatrix {
 private:
     vector<vector<int>> sums;
