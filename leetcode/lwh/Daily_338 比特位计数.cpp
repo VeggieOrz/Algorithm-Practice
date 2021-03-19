@@ -1,3 +1,9 @@
+/*
+ * 题目：338. 比特位计数
+ * 链接：https://leetcode-cn.com/problems/counting-bits/
+ * 知识点：暴力，动态规划，位运算
+ */
+
 class Solution {
 public:
     int getNum(int n) {
